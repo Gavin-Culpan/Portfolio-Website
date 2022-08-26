@@ -7,7 +7,7 @@
 .hero {
     height: 100vh;
     width: 100%;
-    background-image: url(img\face.png);
+    background-image: url('https://scontent-jnb1-1.xx.fbcdn.net/v/t39.30808-6/301603775_10228316449593042_8691693760735068547_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFZz6Zl7WSlxE0dWTC6D-xwASpWgOyMDSABKlaA7IwNIElRXXATmdUe5poJJv4zFLQ&_nc_ohc=UPZuyRBUzsYAX_HOshB&_nc_ht=scontent-jnb1-1.xx&oh=00_AT9F9dTDPKbnzfiikDBlqVnOvJHMQh_yW3u5SldeN9CiVw&oe=630D3C89');
     background-size: cover;
     background-position: center;
 }
